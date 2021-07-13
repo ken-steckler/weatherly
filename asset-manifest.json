@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/weatherly/static/css/main.5b1fd0c1.chunk.css",
+    "main.js": "/weatherly/static/js/main.d95b23c0.chunk.js",
+    "main.js.map": "/weatherly/static/js/main.d95b23c0.chunk.js.map",
+    "runtime-main.js": "/weatherly/static/js/runtime-main.713a6c39.js",
+    "runtime-main.js.map": "/weatherly/static/js/runtime-main.713a6c39.js.map",
+    "static/css/2.5388e91c.chunk.css": "/weatherly/static/css/2.5388e91c.chunk.css",
+    "static/js/2.e103aefd.chunk.js": "/weatherly/static/js/2.e103aefd.chunk.js",
+    "static/js/2.e103aefd.chunk.js.map": "/weatherly/static/js/2.e103aefd.chunk.js.map",
+    "index.html": "/weatherly/index.html",
+    "static/css/2.5388e91c.chunk.css.map": "/weatherly/static/css/2.5388e91c.chunk.css.map",
+    "static/css/main.5b1fd0c1.chunk.css.map": "/weatherly/static/css/main.5b1fd0c1.chunk.css.map",
+    "static/js/2.e103aefd.chunk.js.LICENSE.txt": "/weatherly/static/js/2.e103aefd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/weatherly/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/App.css": "/weatherly/static/media/seattle1.a16b3eec.jpg",
+    "static/media/sunny.2269e70e.png": "/weatherly/static/media/sunny.2269e70e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.713a6c39.js",
+    "static/css/2.5388e91c.chunk.css",
+    "static/js/2.e103aefd.chunk.js",
+    "static/css/main.5b1fd0c1.chunk.css",
+    "static/js/main.d95b23c0.chunk.js"
+  ]
+}
