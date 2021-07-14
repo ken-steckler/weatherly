@@ -3,6 +3,7 @@ import Weather from "./components/weather";
 import "./App.css";
 import { Dimmer, Loader } from "semantic-ui-react";
 
+//Api key/base
 const api = {
   key: "ad58305515ce81da0e1c23a16629b3ab",
   base: "https://api.openweathermap.org/data/2.5/",
