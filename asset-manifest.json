@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weatherly/static/css/main.27eee721.chunk.css",
-    "main.js": "/weatherly/static/js/main.78b4b05a.chunk.js",
-    "main.js.map": "/weatherly/static/js/main.78b4b05a.chunk.js.map",
+    "main.js": "/weatherly/static/js/main.0df61d41.chunk.js",
+    "main.js.map": "/weatherly/static/js/main.0df61d41.chunk.js.map",
     "runtime-main.js": "/weatherly/static/js/runtime-main.713a6c39.js",
     "runtime-main.js.map": "/weatherly/static/js/runtime-main.713a6c39.js.map",
     "static/css/2.5388e91c.chunk.css": "/weatherly/static/css/2.5388e91c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.5388e91c.chunk.css",
     "static/js/2.64ed6e77.chunk.js",
     "static/css/main.27eee721.chunk.css",
-    "static/js/main.78b4b05a.chunk.js"
+    "static/js/main.0df61d41.chunk.js"
   ]
 }
