@@ -24,7 +24,7 @@ main {
   background-size: cover;
   background-position: center;
   background-size: cover;
-  background-position: botoom;
+  background-position: bottom;
   transition: 0.4s ease-out;
   height: 100vh;
 }
@@ -34,7 +34,7 @@ main {
   background-size: cover;
   background-position: center;
   background-size: cover;
-  background-position: botoom;
+  background-position: bottom;
   transition: 0.4s ease-out;
   height: 100vh;
 }
@@ -44,7 +44,7 @@ main {
   background-size: cover;
   background-position: center;
   background-size: cover;
-  background-position: botoom;
+  background-position: bottom;
   transition: 0.4s ease-out;
   height: 100vh;
 }

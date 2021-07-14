@@ -2,7 +2,6 @@ import React from "react";
 import "./styles.css";
 import moment from "moment";
 import { Button } from "semantic-ui-react";
-import sunny from "../img/sunny.png";
 
 const refresh = () => {
   window.location.reload();
@@ -10,17 +9,17 @@ const refresh = () => {
 
 const WeatherCard = ({ weatherData }) => (
   <div className="main">
-    <div className="top">
-      <p className="header">{weatherData.name}</p>
-      <Button
-        className="button"
-        inverted
-        color="blue"
-        circular
-        icon="refresh"
-        onClick={refresh}
-      />
-    </div>
+    <p className="header">{weatherData.name}</p>
+    {/* <Button
+      className="button"
+      inverted
+      color="blue"
+      circular
+      icon="refresh"
+      onClick={refresh}
+    /> */}
+    <p className="temp">{Math.round(weatherData.main.temp)} &deg;F</p>
+    <div className="top"></div>
     <div className="flex">
       <div className="center">
         <p className="day">
@@ -35,10 +34,10 @@ const WeatherCard = ({ weatherData }) => (
     <div className="divider"></div>
 
     <div className="flex">
-      <p className="temp">
+      {/* <p className="temp">
         Temprature: {Math.round(weatherData.main.temp)} &deg;F
-      </p>
-      <p className="temp">Humidity: {weatherData.main.humidity} %</p>
+      </p> */}
+      <p className="humidity">Humidity: {weatherData.main.humidity} %</p>
     </div>
 
     <div className="flex">
