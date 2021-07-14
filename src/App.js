@@ -47,7 +47,15 @@ export default function App() {
   };
 
   return (
-    <div className="App">
+    <div
+      className={
+        typeof data.main != "undefined"
+          ? data.main.temp > 90
+            ? "App warm"
+            : "App cold"
+          : "App cold"
+      }
+    >
       <main>
         <div className="Wrapper">
           <div className="searchbox">
